@@ -51,7 +51,7 @@ const Myworksection = () => {
                 href="https://ai-resume-landing-liard.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-[#D9D9D9] text-[17px] rounded-[4px] mt-8 pt-[3px] w-[110px] h-[35px] font-poppins text-[#000000] hover:scale-104 hidden md:block text-center mt-1"
+                className="bg-[#D9D9D9] text-[17px] rounded-[4px] mt-8 pt-[3px] w-[110px] h-[35px] font-poppins text-[#000000] hover:scale-104 hidden md:block text-center mt-2"
               >
                 <button>
                   Live Demo
@@ -73,7 +73,7 @@ const Myworksection = () => {
               href="https://ai-resume-landing-liard.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
-              className="bg-[#D9D9D9] md:hidden block text-[17px] rounded-[4px] mt-8 pt-[3px] w-[110px] h-[35px] font-poppins text-[#000000] hover:scale-104 text-center mt-1"
+              className="bg-[#D9D9D9] md:hidden block text-[17px] rounded-[4px] mt-8 pt-[3px] w-[110px] h-[35px] font-poppins text-[#000000] hover:scale-104 text-center mt-2"
             >
               <button>
                 Live Demo
@@ -113,7 +113,7 @@ const Myworksection = () => {
                 href="https://nocode-landing-page.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-[#D9D9D9] text-[17px] rounded-[4px] mt-8 pt-[3px] w-[110px] h-[35px] font-poppins text-[#000000] hover:scale-104 hidden md:block text-center mt-1"
+                className="bg-[#D9D9D9] text-[17px] rounded-[4px] mt-8 pt-[3px] w-[110px] h-[35px] font-poppins text-[#000000] hover:scale-104 hidden md:block text-center mt-2"
               >
                 <button>
                   Live Demo
@@ -135,7 +135,7 @@ const Myworksection = () => {
               href="https://nocode-landing-page.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
-              className="bg-[#D9D9D9] md:hidden block text-[17px] rounded-[4px] mt-8 pt-[3px] w-[110px] h-[35px] font-poppins text-[#000000] hover:scale-104 text-center mt-1"
+              className="bg-[#D9D9D9] md:hidden block text-[17px] rounded-[4px] mt-8 pt-[3px] w-[110px] h-[35px] font-poppins text-[#000000] hover:scale-104 text-center mt-2"
             >
               <button>
                 Live Demo
