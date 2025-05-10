@@ -47,15 +47,16 @@ const Myworksection = () => {
                 </span>
                 OpenAI | Figma | React | Tailwind
               </p>
-              <Link
+              <a
                 href="https://ai-resume-landing-liard.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
+                className="bg-[#D9D9D9] text-[17px] rounded-[4px] mt-8 pt-[3px] w-[110px] h-[35px] font-poppins text-[#000000] hover:scale-104 hidden md:block
               >
-                <button className="bg-[#D9D9D9] text-[17px] rounded-[4px] mt-8 pt-[3px] w-[110px] h-[35px] font-poppins text-[#000000] hover:scale-104 hidden md:block">
+                <button>
                   Live Demo
                 </button>
-              </Link>
+              </a>
             </div>
 
             {/* Right Side */}
@@ -72,8 +73,9 @@ const Myworksection = () => {
               href="https://ai-resume-landing-liard.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
+              className="bg-[#D9D9D9] md:hidden block text-[17px] rounded-[4px] mt-8 pt-[3px] w-[110px] h-[35px] font-poppins text-[#000000] hover:scale-104"
             >
-              <button className="bg-[#D9D9D9] md:hidden block text-[17px] rounded-[4px] mt-8 pt-[3px] w-[110px] h-[35px] font-poppins text-[#000000] hover:scale-104">
+              <button>
                 Live Demo
               </button>
             </a>
@@ -111,8 +113,9 @@ const Myworksection = () => {
                 href="https://nocode-landing-page.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
+                className="bg-[#D9D9D9] text-[17px] rounded-[4px] mt-8 pt-[3px] w-[110px] h-[35px] font-poppins text-[#000000] hover:scale-104 hidden md:block"
               >
-                <button className="bg-[#D9D9D9] text-[17px] rounded-[4px] mt-8 pt-[3px] w-[110px] h-[35px] font-poppins text-[#000000] hover:scale-104 hidden md:block">
+                <button>
                   Live Demo
                 </button>
               </a>
@@ -132,8 +135,9 @@ const Myworksection = () => {
               href="https://nocode-landing-page.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
+              className="bg-[#D9D9D9] md:hidden block text-[17px] rounded-[4px] mt-8 pt-[3px] w-[110px] h-[35px] font-poppins text-[#000000] hover:scale-104"
             >
-              <button className="bg-[#D9D9D9] md:hidden block text-[17px] rounded-[4px] mt-8 pt-[3px] w-[110px] h-[35px] font-poppins text-[#000000] hover:scale-104">
+              <button>
                 Live Demo
               </button>
             </a>
