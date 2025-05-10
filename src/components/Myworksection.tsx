@@ -21,7 +21,7 @@ const Myworksection = () => {
         {/* 2 DEMO Storing div */}
         <div className="flex flex-col justify-center items-center gap-20 lg:gap-20 md:gap-25 mt-30 lg:ml-26 md:ml-0 ">
           {/* 1Demo */}
-          <div className="flex  md:flex-row flex-col justify-center items-center lg:gap-56 md:gap-10">
+          <div className="flex  md:flex-row flex-col justify-center items-center lg:gap-64 md:gap-10">
             {/* Left Side */}
             <div className="md:flex flex-col text-left mt-2 hidden">
               <p className="md:text-[29px] text-[25px] text-[#F7F7F7] font-inter md:block hidden">
