@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@theme {
+  --font-family-poppins: "Poppins", sans-serif;
+  --font-family-inter: "Inter", sans-serif;
+  --font-family-overpass: "Overpass", sans-serif;
+  --font-family-slabo: "Slabo 13px", serif;
+  --font-family-inria: "Inria Sans", sans-serif;
+
+  --font-poppins: var(--font-family-poppins);
+  --font-inter: var(--font-family-inter);
+  --font-overpass: var(--font-family-overpass);
+  --font-slabo: var(--font-family-slabo);
+  --font-inria: var(--font-family-inria);
+}
+
+@layer base {
+  body {
+    background-color: black;
+    padding-top: 100px;
+    height: 100%;
+    font-family: var(--font-inter);
+  }
+
+  .font-poppins {
+    font-family: var(--font-poppins);
+  }
+
+  .font-inter {
+    font-family: var(--font-inter);
+  }
+
+  .font-overpass {
+    font-family: var(--font-overpass);
+  }
+
+  .font-slabo {
+    font-family: var(--font-slabo);
+  }
+
+  .font-inria {
+    font-family: var(--font-inria);
+  }
+
+  .glowing-ring {
+    box-shadow: 0 0 60px #a1a1a1, 0 0 30px #000000;
+    filter: blur(40px);
+  }
+}
