@@ -24,9 +24,6 @@ Ai Resume - https://nocode-landing-page.vercel.app/
 No-Code website builder - https://ai-resume-landing-liard.vercel.app/
 
 
-## 📁 Folder Structure
-
-
 
 ## ✉️ Contact Me
 If you're looking to collaborate or need a high-converting landing page:
