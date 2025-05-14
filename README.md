@@ -20,8 +20,8 @@ To present myself professionally and attract potential clients looking for high-
 - Optimized for speed and accessibility
 
 ## 🌐 Live Demo
-https://nocode-landing-page.vercel.app/
-https://ai-resume-landing-liard.vercel.app/
+Ai Resume - https://nocode-landing-page.vercel.app/
+No-Code website builder - https://ai-resume-landing-liard.vercel.app/
 
 
 ## 📁 Folder Structure
@@ -31,4 +31,4 @@ https://ai-resume-landing-liard.vercel.app/
 ## ✉️ Contact Me
 If you're looking to collaborate or need a high-converting landing page:
 - 📧 megha@example.com
-- 🌐 [YourPortfolio.com](https://yourportfolio.com)
+- 🌐 https://meghasportfolio-megha.vercel.app/
