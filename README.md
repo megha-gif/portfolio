@@ -37,5 +37,5 @@ About Me: Hi! I'm Megha — a front-end developer focused on clean UI/UX Landing
 
 ## ✉️ Contact Me
 If you're looking to collaborate or need a high-converting landing page:
-- 📧 megha@example.com
+- 📧 varshinim173@gmail.com
 - 🌐 https://meghasportfolio-megha.vercel.app/
